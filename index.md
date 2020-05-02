@@ -2,9 +2,9 @@
 ![Image](images/photographe.jpg)
 
 ### 1. Définition
-![Image](images/définition Wikipédia.png)
+![Image](images/définitionWikipédia.png)
 
-![Image](images/définition 1.png)
+![Image](images/définition1.png)
 
 ### 2. Son histoire
 ### 3. Ses composants
