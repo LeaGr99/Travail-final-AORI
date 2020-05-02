@@ -3,5 +3,6 @@
 
 ### 1. Définition
 ### 2. Son histoire
-### 3. Son utilisation
-### 4. Son succès
+### 3. Ses composants
+### 4. Ses différents types
+### 5. Son succès
