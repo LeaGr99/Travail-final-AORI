@@ -1,3 +1,5 @@
+[Accueil](index.md)
+
 ## L'appareil photo numérique 
 ![Image](images/photographe.jpg)
 
