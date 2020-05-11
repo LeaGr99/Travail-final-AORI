@@ -7,7 +7,7 @@ Je vais ici vous présenter les appareils photos numériques. Ce sont des recher
 Tout d'abord, voici la table des matières de mon site : 
 
 
-1. [Définition](explications.md)
+1. [Définition](definition.md)
 2. [Son histoire](histoire.md)
 3. [Ses composants](composants.md)
 4. [Ses différents types](types.md)
