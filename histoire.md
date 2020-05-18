@@ -14,4 +14,4 @@ Bibliographie
 
 Bibliographie
 
-[<img src="https://www.he2b.be/images/HE2B-Logo-IESSID-300.jpg">](http://www.iessid.be)
+[<img src="images/histoirepdf.PNG">](pdf/photonumerique.pdf)
