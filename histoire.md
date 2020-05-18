@@ -14,4 +14,4 @@ Bibliographie
 
 Bibliographie
 
-[<img src="images/histoirepdf.PNG">](pdf/photonumerique.pdf)
+[<img src="images/histoirepdf.PNG">](pdf/photonumérique.pdf)
