@@ -11,4 +11,4 @@ Tout d'abord, voici la table des matières de mon site :
 ## 2. [Son histoire](histoire.md)
 ## 3. [Ses composants](composants.md)
 ## 4. [Ses différents types](types.md)
-## 5. [Son succès](succès.md)
+## 5. [Le duel smartphone VS appareil photo numérique](concurrence.md)
