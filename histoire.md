@@ -1,6 +1,6 @@
 # [Accueil](index.md)
 
-
+## 2. Son histoire
 
 |  VIVACITE. "L'appareil photo numérique en 5 dates clés" [en ligne]. In *RTBF*. Mise à jour le 11 janvier 2018 [consulté le 18 mai 2020]. Disponible sur le Web : <https://www.rtbf.be/vivacite/emissions/detail_on-n-est-pas-des-pigeons/accueil/article_l-appareil-photo-numerique-en-5-dates-cles?id=9807595&programId=8792>  |
 
