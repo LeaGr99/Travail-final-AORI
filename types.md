@@ -1,6 +1,6 @@
 # [Accueil](index.md)
 
-## Ses différents types
+## 4. Ses différents types
 
 | LOUVET, Jean-Pierre. "La photo numérique : du capteur à l'image. Les types d'appareils : compact, reflex, hybride et bridge" [en ligne]. In *FuturaTech*. Mise à jour le 9 mai 2017 [consulté le 18 mai 2020]. Disponible sur le Web : <https://www.futura-sciences.com/tech/dossiers/technologie-photo-numerique-capteur-image-773/page/2/>  |
 
