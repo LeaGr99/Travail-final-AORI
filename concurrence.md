@@ -1,3 +1,5 @@
+# [Accueil](index.md)
+
 ## 5. Le duel smartphone VS appareil photo numérique
 
 
