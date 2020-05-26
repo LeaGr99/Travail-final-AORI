@@ -1,7 +1,7 @@
 ## [Accueil](index.md)
 
 
-### Définition
+### 1. Définition
 
 |  WIKIPEDIA. "Appareil photo numérique" [en ligne]. In *Wikipédia. L'encyclopédie libre*. Mise à jour le 27 novembre 2019 [consulté le 3 mai 2020]. Disponible sur le Web : <https://fr.wikipedia.org/wiki/Appareil_photographique_num%C3%A9rique>  |
 
