@@ -1,4 +1,4 @@
-[Accueil](index.md)
+# [Accueil](index.md)
 
 ## 3. Ses composants
 
