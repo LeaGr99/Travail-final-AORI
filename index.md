@@ -11,8 +11,4 @@ Tout d'abord, voici la table des matières de mon site :
 2. [Son histoire](histoire.md)
 3. [Ses composants](composants.md)
 4. [Ses différents types](types.md)
-* Le compact
-* Le reflex
-* L'hybride
-* Le bridge
 5. [Son succès](succès.md)
