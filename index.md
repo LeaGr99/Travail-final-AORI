@@ -12,3 +12,6 @@ Tout d'abord, voici la table des matières de mon site :
 ## 3. [Ses composants](composants.md)
 ## 4. [Ses différents types](types.md)
 ## 5. [Le duel smartphone VS appareil photo numérique](concurrence.md)
+
+
+Avant de consulter les sources mentionnées plus haut, je vous invite à regarder cette vidéo de [C'est pas sorcier !](https://www.youtube.com/watch?v=l9yCIbvD2S0) qui résume l'utilisation de l'appareil photo numérique et ses différents types.
