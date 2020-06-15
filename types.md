@@ -17,9 +17,7 @@
 
 ![Image](images/types3.PNG)
 
-|  ANONYME. "L'appareil photo numérique" [en ligne]. In *L'évolution de la photographie : de l'argentique au numérique*. Mise à jour en 2011 [consulté le 3 mai 2020]. Disponible sur le Web : <http://histoiredelaphoto.e-monsite.com/pages/l-appareil-photo-numerique.html>  |
 
-![Image](images/types4.PNG)
 
 
 
